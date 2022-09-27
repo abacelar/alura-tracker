@@ -3,6 +3,10 @@
     {
       "nome": "vue",
       "id": 1
+    },
+    {
+      "nome": "typ0",
+      "id": 2
     }
   ],
   "tarefas": [
