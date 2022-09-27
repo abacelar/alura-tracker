@@ -1,8 +1,38 @@
 {
   "projetos": [
     {
+      "nome": "vue",
+      "id": 1
+    }
+  ],
+  "tarefas": [
+    {
       "id": 1,
-      "nome": "sqe1234"
+      "duracaoEmSegundos": 120,
+      "descricao": "Config ee",
+      "projeto": {
+        "id": 1,
+        "nome": "sqe1234"
+      }
+    },
+    {
+      "duracaoEmSegundos": 2,
+      "descricao": "123121",
+      "id": 2
+    },
+    {
+      "duracaoEmSegundos": 2,
+      "descricao": "2131212",
+      "projeto": {
+        "id": 1,
+        "nome": "sqe1234"
+      },
+      "id": 3
+    },
+    {
+      "duracaoEmSegundos": 2,
+      "descricao": "7",
+      "id": 4
     }
   ]
 }
